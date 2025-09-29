@@ -1,1 +1,1 @@
-# Internship---Task---5
+I downloaded and installed Wireshark then initiated packet capturing on my live network interface. While capturing, I created network traffic by opening websites and accessing simple commands like ping. After one minute, I exited the capture and filtered packets using protocols like DNS, HTTP, and TCP. I dissected at least three various protocols, viewed single packet information, and saved the capture in a .pcap file. Lastly, I concluded my results in a brief report and uploaded all the code to my GitHub repository.
